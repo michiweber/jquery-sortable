@@ -1,6 +1,6 @@
 {
-  "name": "jquery-sortable",
-  "version": "0.9.13",
+  "name": "michiweber.jquery-sortable",
+  "version": "1.0.0",
   "description": "jquery plugin for sortable, nestable lists",
   "main": "./source/js/jquery-sortable.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnny/jquery-sortable.git"
+    "url": "https://github.com/michiweber/jquery-sortable.git"
   },
   "keywords": [
     "sortable",
@@ -18,13 +18,14 @@
     "dragging"
   ],
   "author": [
-    "Jonas von Andrian"
+    "Jonas von Andrian",
+    "Michael Weber"
   ],
   "license": "BSD-3",
   "bugs": {
-    "url": "https://github.com/johnny/jquery-sortable/issues"
+    "url": "https://github.com/michiweber/jquery-sortable/issues"
   },
-  "homepage": "https://github.com/johnny/jquery-sortable",
+  "homepage": "https://github.com/michiweber/jquery-sortable",
   "dependencies": {
     "jquery": "^3.0.0"
   }
